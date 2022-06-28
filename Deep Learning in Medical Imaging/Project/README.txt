@@ -1,7 +1,7 @@
-In this repository, we provide 1 .ipynb file, 10 .py files and 2 .csv files (for submission):
+In this repository, we provide 1 .ipynb file and 10 .py files:
 	
 	For demo :
-		- SM_EG.ipynb : notebook file that illustrates all the result of our project.
+		- SM_EG.ipynb : notebook file that illustrates all the result of the project.
 	
 	For data preparation : 
 		- create_tiles.py : contains functions to extract tiles from WSIs.
@@ -22,8 +22,6 @@ In this repository, we provide 1 .ipynb file, 10 .py files and 2 .csv files (for
 
 	For testing : 
 		- test.py : contains functions to test the three previous models.
-
-	2 Submission files : .csv files for best two submissions, the name of the file indicates the score on the Learderboard  
 
 NB. 
 - To run the notebook, please put all the files in the same repository. 
