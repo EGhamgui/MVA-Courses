@@ -1,8 +1,5 @@
 # <h1 align="center"> Master MVA </h1> 
-Assignments and projects realized during the Master **MATHÉMATIQUES, VISION, APPRENTISSAGE (MVA)** at ENS Paris-Saclay.
-
----
----
+<h1 align="center"> Assignments and Projects Realized during the Master **Mathématiques, Vision, Apprentissage (MVA)** at ENS Paris-Saclay </h1> 
 
 ## First Semester
 
@@ -13,8 +10,8 @@ Assignments and projects realized during the Master **MATHÉMATIQUES, VISION, AP
 
 ### Computational Statistics (STÉPHANIE ALLASSONIÈRE) 
 * HM1: Markov Chains - Stochastic Gradient Descent
-* HM2: Expectation-Maximisation algorithm – Importance sampling
-* HM3: Hasting-Metropolis (and Gibbs) samplers
+* HM2: Expectation-Maximisation Algorithm – Importance Sampling
+* HM3: Hasting-Metropolis (and Gibbs) Samplers
 * HM4: Metropolis-Hastings Algorithm
 
 ### Image Denoising (JEAN-MICHEL MOREL, GABRIELE FACCIOLO, GABRIELE FACCIOLO)
@@ -43,6 +40,7 @@ Reference: https://proceedings.mlr.press/v102/kervadec19a.html
 ## Second Semester
 
 ### Deep Learning in Medical Imaging (OLIVIER COLLIOT, MARIA VAKALOPOULOU)
+
 * Project: Prostate Cancer Diagnostic using Histopathology Images <br> Kaggle challenge: https://www.kaggle.com/competitions/mvadlmi
 * Paper: Triplanar Ensemble U-Net Model for White Matter Hyperintensities Segmentation on MR Images <br> Reference: https://www.sciencedirect.com/science/article/pii/S1361841521002309
 
@@ -57,11 +55,11 @@ Reference: https://proceedings.mlr.press/v102/kervadec19a.html
 ### Graphs in Machine Learning (DANIELE CALANDRIELLO) 
 * HM1: Spectral Clustering
 * HM2: Semi-Supervised Learning (SSL)
-* HM3: Introduction to Graph Neural Nets with JAX/jraph
+* HM3: Introduction to Graph Neural Nets with JAX/Jraph
 
 ### Time Series Analysis (LAURENT OUDRE)
 * HM1: Convolutional Dictionary Learning (CDL), Dynamic Time Warping (DTW)
-* HM2: ARIMA process, Sparse coding
+* HM2: ARIMA Process, Sparse Coding
 * HM3: Change-point Detection, Wavelet Transform for Graph Signals
 * Project: Feature Selection Methods <br> Reference: https://dl.acm.org/doi/pdf/10.1145/3136625
 
