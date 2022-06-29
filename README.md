@@ -1,4 +1,4 @@
-<h1 align="center"> Assignments and Projects Realized During the Master Mathématiques, Vision, Apprentissage (MVA) at ENS Paris-Saclay </h1> 
+<h1 align="center", font-size:24px> Assignments and Projects Realized During the Master Mathématiques, Vision, Apprentissage (MVA) at ENS Paris-Saclay </h1> 
 
 ## First Semester
 
