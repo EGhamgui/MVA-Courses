@@ -1,5 +1,8 @@
 # Master MVA 
-Assignments and projects realized during the Master MATHÉMATIQUES, VISION, APPRENTISSAGE (MVA) at ENS Paris-Saclay.
+Assignments and projects realized during the Master **MATHÉMATIQUES, VISION, APPRENTISSAGE (MVA)** at ENS Paris-Saclay.
+
+---
+---
 
 ## First Semester
 
@@ -32,7 +35,7 @@ Reference: https://proceedings.mlr.press/v102/kervadec19a.html
 ### Object Recognition and Computer Vision (IVAN LPATEV, JEAN PONCE, CORDELIA SCHMID, JOSEF SIVIC) 
 * HM1: Instance-level Recognition
 * HM2: Neural Networks
-* HM3: Bird Image Classification Competition | Kaggle challenge: https://www.kaggle.com/competitions/mva-recvis-2021
+* HM3: Bird Image Classification Competition <br> Kaggle challenge: https://www.kaggle.com/competitions/mva-recvis-2021
 * Project: Action-conditioned 3D human motion synthesis 
 
 ### Topological Data Analysis for Imaging and Machine Learning (FRÉDÉRIC CHAZAL, JULIEN TIERNY)
@@ -40,8 +43,8 @@ Reference: https://proceedings.mlr.press/v102/kervadec19a.html
 ## Second Semester
 
 ### Deep Learning in Medical Imaging (OLIVIER COLLIOT, MARIA VAKALOPOULOU)
-* Project: Prostate Cancer Diagnostic using Histopathology Images | Kaggle challenge: https://www.kaggle.com/competitions/mvadlmi
-* Paper: Triplanar Ensemble U-Net Model for White Matter Hyperintensities Segmentation on MR Images | Reference: https://www.sciencedirect.com/science/article/pii/S1361841521002309
+* Project: Prostate Cancer Diagnostic using Histopathology Images <br> Kaggle challenge: https://www.kaggle.com/competitions/mvadlmi
+* Paper: Triplanar Ensemble U-Net Model for White Matter Hyperintensities Segmentation on MR Images <br> Reference: https://www.sciencedirect.com/science/article/pii/S1361841521002309
 
 ### Deep Learning in Practice (GUILLAUME CHARPIAT) 
 * HM1: Hyperparameters Tuning
@@ -60,7 +63,7 @@ Reference: https://proceedings.mlr.press/v102/kervadec19a.html
 * HM1: Convolutional Dictionary Learning (CDL), Dynamic Time Warping (DTW)
 * HM2: ARIMA process, Sparse coding
 * HM3: Change-point Detection, Wavelet Transform for Graph Signals
-* Project: Feature Selection Methods | Reference: https://dl.acm.org/doi/pdf/10.1145/3136625
+* Project: Feature Selection Methods <br> Reference: https://dl.acm.org/doi/pdf/10.1145/3136625
 
 
 
