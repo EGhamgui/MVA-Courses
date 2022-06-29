@@ -26,7 +26,7 @@ Assignments and projects realized during the Master MATHÉMATIQUES, VISION, APPR
 
 ### Medical Image Analysis (HERVÉ DELINGETTE, XAVIER PENNEC) 
 
-Paper summary: Boundary Loss for Highly Unbalanced Segmentation 
+Paper summary: Boundary Loss for Highly Unbalanced Segmentation\n
 Reference: https://proceedings.mlr.press/v102/kervadec19a.html
 
 ### Object Recognition and Computer Vision (IVAN LPATEV, JEAN PONCE, CORDELIA SCHMID, JOSEF SIVIC) 
