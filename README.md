@@ -1,4 +1,4 @@
-# \center Master MVA 
+# <h1 align="center"> Master MVA </h1> 
 Assignments and projects realized during the Master **MATHÉMATIQUES, VISION, APPRENTISSAGE (MVA)** at ENS Paris-Saclay.
 
 ---
