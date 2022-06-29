@@ -1,5 +1,5 @@
-# Master MVA 
-Assignments and projects realized during the Master **MATHÉMATIQUES, VISION, APPRENTISSAGE (MVA)** at ENS Paris-Saclay.
+# <center> Master MVA 
+<center> Assignments and projects realized during the Master **MATHÉMATIQUES, VISION, APPRENTISSAGE (MVA)** at ENS Paris-Saclay.
 
 ---
 ---
