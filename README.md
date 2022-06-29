@@ -14,9 +14,9 @@
 * HM4: Metropolis-Hastings Algorithm
 
 #### Image Denoising (JEAN-MICHEL MOREL, GABRIELE FACCIOLO, GABRIELE FACCIOLO)
-* HM1: Ponomarenko Algorithm, Multi-scale DCT
-* HM2: BM3D, Non-local Means
-* HM3: Patch Similarity, Non-local Bayes 
+* HM1: Ponomarenko Algorithm, Multi-Scale DCT
+* HM2: BM3D, Non-Local Means
+* HM3: Patch Similarity, Non-Local Bayes 
 * HM4: EPLL, Zoran-Weiss Gaussians Mixture Model 
 * HM5: Introduction to CNN Denoising
 * HM6: A Deeper Understanding of CNN Denoising
@@ -25,14 +25,14 @@
 
 #### Medical Image Analysis (HERVÉ DELINGETTE, XAVIER PENNEC) 
 
-Paper summary: Boundary Loss for Highly Unbalanced Segmentation <br> 
+Paper Summary: Boundary Loss for Highly Unbalanced Segmentation <br> 
 Reference: https://proceedings.mlr.press/v102/kervadec19a.html
 
 #### Object Recognition and Computer Vision (IVAN LPATEV, JEAN PONCE, CORDELIA SCHMID, JOSEF SIVIC) 
-* HM1: Instance-level Recognition
+* HM1: Instance-Level Recognition
 * HM2: Neural Networks
-* HM3: Bird Image Classification Competition <br> Kaggle challenge: https://www.kaggle.com/competitions/mva-recvis-2021
-* Project: Action-conditioned 3D human motion synthesis 
+* HM3: Bird Image Classification Competition <br> Kaggle Challenge: https://www.kaggle.com/competitions/mva-recvis-2021
+* Project: Action-Conditioned 3D Human Motion Synthesis 
 
 #### Topological Data Analysis for Imaging and Machine Learning (FRÉDÉRIC CHAZAL, JULIEN TIERNY)
 
@@ -40,8 +40,8 @@ Reference: https://proceedings.mlr.press/v102/kervadec19a.html
 
 #### Deep Learning in Medical Imaging (OLIVIER COLLIOT, MARIA VAKALOPOULOU)
 
-* Project: Prostate Cancer Diagnostic using Histopathology Images <br> Kaggle challenge: https://www.kaggle.com/competitions/mvadlmi
-* Paper: Triplanar Ensemble U-Net Model for White Matter Hyperintensities Segmentation on MR Images <br> Reference: https://www.sciencedirect.com/science/article/pii/S1361841521002309
+* Project: Prostate Cancer Diagnostic Using Histopathology Images <br> Kaggle Challenge: https://www.kaggle.com/competitions/mvadlmi
+* Paper Summary: Triplanar Ensemble U-Net Model for White Matter Hyperintensities Segmentation on MR Images <br> Reference: https://www.sciencedirect.com/science/article/pii/S1361841521002309
 
 #### Deep Learning in Practice (GUILLAUME CHARPIAT) 
 * HM1: Hyperparameters Tuning
@@ -59,7 +59,7 @@ Reference: https://proceedings.mlr.press/v102/kervadec19a.html
 #### Time Series Analysis (LAURENT OUDRE)
 * HM1: Convolutional Dictionary Learning (CDL), Dynamic Time Warping (DTW)
 * HM2: ARIMA Process, Sparse Coding
-* HM3: Change-point Detection, Wavelet Transform for Graph Signals
+* HM3: Change-Point Detection, Wavelet Transform for Graph Signals
 * Project: Feature Selection Methods <br> Reference: https://dl.acm.org/doi/pdf/10.1145/3136625
 
 
