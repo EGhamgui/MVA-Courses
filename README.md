@@ -13,7 +13,7 @@
 * HM3: Hasting-Metropolis (and Gibbs) Samplers
 * HM4: Metropolis-Hastings Algorithm
 
-#### Image Denoising (JEAN-MICHEL MOREL, GABRIELE FACCIOLO, GABRIELE FACCIOLO)
+#### Image Denoising (JEAN-MICHEL MOREL, GABRIELE FACCIOLO, PABLO ARIAS)
 * HM1: Ponomarenko Algorithm, Multi-Scale DCT
 * HM2: BM3D, Non-Local Means
 * HM3: Patch Similarity, Non-Local Bayes 
